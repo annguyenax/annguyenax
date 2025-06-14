@@ -30,4 +30,4 @@
 ## 📫 Contact Me
 
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/van-an-nguyen-68270624a/)  
+- 💼 LinkedIn: [](https://www.linkedin.com/in/van-an-nguyen-68270624a/)  
