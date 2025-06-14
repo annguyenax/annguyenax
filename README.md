@@ -29,5 +29,5 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/van-an-nguyen-68270624a/)  
