@@ -12,7 +12,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/annguyenax?style=for-the-badge&logo=github)](https://github.com/annguyenax)
 [![Profile views](https://komarev.com/ghpvc/?username=annguyenax&style=for-the-badge&color=blueviolet)](https://github.com/annguyenax)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Van%20An%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/van-an-nguyen-68270624a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Van%20An%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/an-nguyen-68270624a/)
 [![Email](https://img.shields.io/badge/Email-annguyen11012k4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annguyen11012k4@gmail.com)
 
 </div>
