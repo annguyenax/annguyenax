@@ -21,7 +21,7 @@
 
 ## About Me
 
-I am a 3rd-year **Information Security** student at **PTIT**, currently building my path toward a **Security Engineering internship**.
+I am a final-year **Information Security** student at **PTIT**, currently building my path toward a **Security Engineering internship**.
 
 My main interests are:
 
