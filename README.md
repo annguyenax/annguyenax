@@ -138,17 +138,6 @@ Backend Security: Spring Security, JWT, RBAC, MySQL, REST API security
 
 ---
 
-## Learning Roadmap
-
-- [x] Build IDS lab with Suricata custom rules
-- [x] Build anomaly-based IDS project with TON-IoT dataset
-- [x] Build full-stack Android + Spring Boot project with JWT auth
-- [ ] Add CTF writeups for web and pwn fundamentals
-- [ ] Add security CI pipeline: Semgrep + Gitleaks + Trivy
-- [ ] Add AppSec documentation: threat model, OWASP checklist, API security test plan
-- [ ] Build mini SOC lab: attack traffic, alert triage, incident report
-- [ ] Build mini pentest report for a vulnerable web app
-
 ---
 
 ## GitHub Stats
