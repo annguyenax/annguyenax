@@ -4,7 +4,7 @@
 
 # Nguyễn Văn An
 
-### Information Security Student | Security Engineering Intern Candidate
+### Information Security Student | Security Engineering Intern 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Security+Engineering+%7C+SOC+%7C+Pentest+%7C+DevSecOps;Building+IDS+labs%2C+CTF+writeups%2C+and+secure+backend+projects;Learning+by+breaking%2C+detecting%2C+and+hardening+systems" alt="Typing SVG" />
 
