@@ -15,13 +15,14 @@ I am a final-year Information Security student at PTITHCM, currently applying fo
 What I can walk through today: a Suricata detection-rule lab, a 2-node Linux monitoring/logging lab, and an autoencoder-based anomaly detector evaluated on the TON_IoT dataset. I practice web security and basic pwn through CTF competitions (PTITCTF, Securinets CTF qualifiers). Long term, I want to grow from SOC/Blue Team into security research and red team work, using automation and AI-assisted workflows to speed up that learning.
 
 <p align="center">
-  <img src="./assets/lab-flow.svg" width="720" height="150" alt="Lab detection workflow: Linux logs and Wireshark PCAP feed a Suricata lab, then a triage note, then escalate or close. This is a personal lab, not a production SOC queue.">
+  <img src="./assets/noise-board-dark.svg" width="880" alt="Noise board: TON_IoT detection vs false positive by layer (mean 94.8% detection, 16.0% false positive), Suricata lab alert counts rising from 54 to 486 with 88 custom rules added (only 16 of 88 fired), and an SRE lab RCA replay of a collector outage where the missing log line was backfilled on restart. Personal labs, not a production SOC." #gh-dark-mode-only>
+  <img src="./assets/noise-board-light.svg" width="880" alt="Noise board: TON_IoT detection vs false positive by layer (mean 94.8% detection, 16.0% false positive), Suricata lab alert counts rising from 54 to 486 with 88 custom rules added (only 16 of 88 fired), and an SRE lab RCA replay of a collector outage where the missing log line was backfilled on restart. Personal labs, not a production SOC." #gh-light-mode-only>
 </p>
 
 ## Current Focus
 
 - **Target role:** SOC / Security Monitoring Intern (Tier 1).
-- **Monitoring & detection:** Suricata custom rules, Wireshark, ELK, Linux logs, lab alert triage.
+- **Monitoring & detection:** Suricata custom rules, Wireshark, Grafana Loki (SRE lab), Linux logs, lab alert triage.
 - **Systems & web security:** Linux/Docker labs, OWASP Top 10, JWT/RBAC backend hardening.
 - **Longer-term direction:** CTF practice (web, basic pwn) and lab-scale security-research prototypes (anomaly detection, LLM security), accelerated with small automation/AI tooling.
 
