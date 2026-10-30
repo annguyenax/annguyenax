@@ -6,6 +6,11 @@
 
 [Portfolio](https://annguyenax.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/an-nguyen-68270624a/) · [Email](mailto:annguyen11012k4@gmail.com)
 
+<p align="center">
+  <img src="./assets/noise-board-dark.svg" width="880" alt="Noise board: TON_IoT detection vs false positive by layer (mean 94.8% detection, 16.0% false positive), Suricata lab alert counts rising from 54 to 486 with 88 custom rules added (only 16 of 88 fired), and an SRE lab RCA replay of a collector outage where the missing log line was backfilled on restart. Personal labs, not a production SOC." #gh-dark-mode-only>
+  <img src="./assets/noise-board-light.svg" width="880" alt="Noise board: TON_IoT detection vs false positive by layer (mean 94.8% detection, 16.0% false positive), Suricata lab alert counts rising from 54 to 486 with 88 custom rules added (only 16 of 88 fired), and an SRE lab RCA replay of a collector outage where the missing log line was backfilled on restart. Personal labs, not a production SOC." #gh-light-mode-only>
+</p>
+
 ---
 
 ## About Me
@@ -13,11 +18,6 @@
 I am a final-year Information Security student at PTITHCM, currently applying for **SOC / Security Monitoring Intern (Tier 1)** roles.
 
 What I can walk through today: a Suricata detection-rule lab, a 2-node Linux monitoring/logging lab, and an autoencoder-based anomaly detector evaluated on the TON_IoT dataset. I practice web security and basic pwn through CTF competitions (PTITCTF, Securinets CTF qualifiers). Long term, I want to grow from SOC/Blue Team into security research and red team work, using automation and AI-assisted workflows to speed up that learning.
-
-<p align="center">
-  <img src="./assets/noise-board-dark.svg" width="880" alt="Noise board: TON_IoT detection vs false positive by layer (mean 94.8% detection, 16.0% false positive), Suricata lab alert counts rising from 54 to 486 with 88 custom rules added (only 16 of 88 fired), and an SRE lab RCA replay of a collector outage where the missing log line was backfilled on restart. Personal labs, not a production SOC." #gh-dark-mode-only>
-  <img src="./assets/noise-board-light.svg" width="880" alt="Noise board: TON_IoT detection vs false positive by layer (mean 94.8% detection, 16.0% false positive), Suricata lab alert counts rising from 54 to 486 with 88 custom rules added (only 16 of 88 fired), and an SRE lab RCA replay of a collector outage where the missing log line was backfilled on restart. Personal labs, not a production SOC." #gh-light-mode-only>
-</p>
 
 ## Current Focus
 
