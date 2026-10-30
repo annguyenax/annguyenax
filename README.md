@@ -6,11 +6,6 @@
 
 [Portfolio](https://annguyenax.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/an-nguyen-68270624a/) · [Email](mailto:annguyen11012k4@gmail.com)
 
-<p align="center">
-  <img src="./assets/noise-board-dark.svg" width="880" alt="Noise board: TON_IoT detection vs false positive by layer (mean 94.8% detection, 16.0% false positive), Suricata lab alert counts rising from 54 to 486 with 88 custom rules added (only 16 of 88 fired), and an SRE lab RCA replay of a collector outage where the missing log line was backfilled on restart. Personal labs, not a production SOC." #gh-dark-mode-only>
-  <img src="./assets/noise-board-light.svg" width="880" alt="Noise board: TON_IoT detection vs false positive by layer (mean 94.8% detection, 16.0% false positive), Suricata lab alert counts rising from 54 to 486 with 88 custom rules added (only 16 of 88 fired), and an SRE lab RCA replay of a collector outage where the missing log line was backfilled on restart. Personal labs, not a production SOC." #gh-light-mode-only>
-</p>
-
 ---
 
 ## About Me
@@ -32,7 +27,7 @@ What I can walk through today: a Suricata detection-rule lab, a 2-node Linux mon
 |---|---|---|
 | [suricata-ids-custom-rules](https://github.com/annguyenax/suricata-ids-custom-rules) | Individual lab | 88 custom Suricata detection rules tested in a Kali Linux lab (port scanning, SQLi, brute force, exploit traffic), with a baseline-vs-custom comparison. |
 | [sre-security-platform-lab](https://github.com/annguyenax/sre-security-platform-lab) | Individual lab | 2-node Ubuntu + Docker Compose lab for monitoring, logging and hardening; every README claim is tied to saved command output. |
-| [ton-iot-zero-day-ids](https://github.com/annguyenax/ton-iot-zero-day-ids) | Dataset experiment | Autoencoder trained on benign TON_IoT traffic, evaluated on unseen attacks across Network/IoT/Linux/Windows telemetry. README-reported average: 95.5% detection, **16.2% false positives** (Network layer 22%) — a lab result, not a production claim. |
+| [ton-iot-zero-day-ids](https://github.com/annguyenax/ton-iot-zero-day-ids) | Dataset experiment | Autoencoder trained on benign TON_IoT traffic, evaluated on unseen attacks across Network/IoT/Linux/Windows telemetry. README-reported mean of 4 layers (recomputed 2026-10): 94.8% detection, **16.0% false positives** (Network layer 22%) — a lab result, not a production claim. |
 | [Furniture-Web](https://github.com/annguyenax/Furniture-Web) | Solo coursework | Web Application Security course project: e-commerce platform hardened against OWASP Top 10 (RBAC, parameterized queries, Helmet, Docker isolation). |
 
 ### Research prototypes (longer-term direction)
