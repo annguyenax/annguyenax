@@ -14,6 +14,10 @@ I am a final-year Information Security student at PTITHCM, currently applying fo
 
 What I can walk through today: a Suricata detection-rule lab, a 2-node Linux monitoring/logging lab, and an autoencoder-based anomaly detector evaluated on the TON_IoT dataset. I practice web security and basic pwn through CTF competitions (PTITCTF, Securinets CTF qualifiers). Long term, I want to grow from SOC/Blue Team into security research and red team work, using automation and AI-assisted workflows to speed up that learning.
 
+<p align="center">
+  <img src="./assets/lab-flow.svg" width="720" height="150" alt="Lab detection workflow: Linux logs and Wireshark PCAP feed a Suricata lab, then a triage note, then escalate or close. This is a personal lab, not a production SOC queue.">
+</p>
+
 ## Current Focus
 
 - **Target role:** SOC / Security Monitoring Intern (Tier 1).
