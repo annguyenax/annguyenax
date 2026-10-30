@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-labelledby="labTitle labDesc">
+  <title id="labTitle">Lab detection workflow</title>
+  <desc id="labDesc">Linux and Suricata logs feed a lab triage step, then end in escalate or close. This is a personal lab, not a production SOC queue.</desc>
+  <rect width="720" height="150" rx="6" fill="#07110f"/>
+  <g fill="none" stroke="#c8ff4d" stroke-width="1.4">
+    <rect x="16" y="34" width="150" height="62" rx="3"/>
+    <rect x="196" y="34" width="150" height="62" rx="3"/>
+    <rect x="376" y="34" width="150" height="62" rx="3"/>
+    <rect x="556" y="34" width="148" height="62" rx="3"/>
+    <path d="M166 65 H196 M346 65 H376 M526 65 H556"/>
+  </g>
+  <g fill="#c8ff4d" font-family="ui-monospace, 'DM Mono', monospace" font-size="12">
+    <text x="28" y="60">Linux logs</text>
+    <text x="28" y="78" fill="#94a69e" font-size="10">+ Wireshark PCAP</text>
+    <text x="208" y="60">Suricata lab</text>
+    <text x="208" y="78" fill="#94a69e" font-size="10">88 custom rules</text>
+    <text x="388" y="60">Triage note</text>
+    <text x="388" y="78" fill="#94a69e" font-size="10">ELK, lab-scale</text>
+    <text x="568" y="60">Escalate</text>
+    <text x="568" y="78" fill="#94a69e" font-size="10">or close</text>
+  </g>
+  <text x="16" y="124" fill="#94a69e" font-family="ui-monospace, 'DM Mono', monospace" font-size="11">Lab path I can walk through today. Not a production SOC queue.</text>
+</svg>
