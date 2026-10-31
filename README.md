@@ -10,9 +10,9 @@
 
 ## About Me
 
-I am a final-year Information Security student at PTITHCM, currently applying for **SOC / Security Monitoring Intern (Tier 1)** roles.
+I am a final-year Information Security student at PTITHCM, working toward a career as a **Security Engineer** — starting with a SOC / Security Monitoring internship (Tier 1) to build hands-on detection and incident-response fundamentals.
 
-What I can walk through today: a Suricata detection-rule lab, a 2-node Linux monitoring/logging lab, and an autoencoder-based anomaly detector evaluated on the TON_IoT dataset. I practice web security and pwn through CTF competitions (PTITCTF, Securinets CTF qualifiers). Long term, I want to grow from SOC/Blue Team into security research and red team work, using automation and AI-assisted workflows to speed up that learning.
+What I can walk through today: a Suricata detection-rule lab, a 2-node Linux monitoring/logging lab, and an autoencoder-based anomaly detector evaluated on the TON_IoT dataset. I also train for and compete in CTFs, with results such as a Consolation Prize at the PTITCTF 2026 final round and a Top 14 global finish in the Securinets CTF 2026 qualifier. Long term, I want to grow from SOC/Blue Team into security research and red team work, using automation and AI-assisted workflows to speed up that learning.
 
 ## Current Focus
 
