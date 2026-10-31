@@ -21,6 +21,29 @@ What I can walk through today: a Suricata detection-rule lab, a 2-node Linux mon
 - **Systems & web security:** Linux/Docker labs, OWASP Top 10, JWT/RBAC backend hardening.
 - **Longer-term direction:** CTF practice (web, basic pwn) and lab-scale security-research prototypes (anomaly detection, LLM security), accelerated with small automation/AI tooling.
 
+### Lab map
+
+Each leaf below is one real repo, linked in the table underneath.
+
+```mermaid
+mindmap
+  root((Nguyễn Văn An))
+    Detection labs
+      Suricata — 88 custom rules
+      TON_IoT — autoencoder anomaly detection
+    Systems and SRE
+      HAProxy, Prometheus, Loki
+      Linux, Docker, Ansible
+    Web security
+      Furniture-Web — OWASP A01/A02/A03/A05
+    Research prototypes
+      C2-GNN — GraphSAGE, GATv2
+      LLM security gateway — PoC
+    CTF practice
+      PTITCTF
+      Securinets CTF qualifier
+```
+
 ## Highlighted Projects
 
 | Project | Scope | Evidence |
